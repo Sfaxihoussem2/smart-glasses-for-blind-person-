@@ -139,6 +139,5 @@ The glasses provide practical and intuitive assistance, making daily life easier
 
 ![Audio Amplification](images/image%2011.png)
 ![Audio Modification](images/image%2012.png)
-![Hexadecimal Conversion](images/image%2013.png)
 
 ---
