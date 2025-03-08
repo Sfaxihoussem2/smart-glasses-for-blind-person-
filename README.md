@@ -70,8 +70,7 @@ The glasses provide practical and intuitive assistance, making daily life easier
 
 ### **Visuals**
 
-![Model Training Process](images/image%203.png)
-![Model Deployment Process](images/image%204.png)
+
 ![Other Visuals](images/image%205.png)
 
 ![Additional Image](images/image%206.png)
